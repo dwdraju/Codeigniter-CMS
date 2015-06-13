@@ -1,0 +1,10 @@
+h1 a{ display: inline-block; background: url('http://127.0.0.1/blog/html/img/blog-favicon.png') no-repeat ; background-size:contain; height: 70px; padding: 5px 0 0 315px; color: black; }
+
+h1 a:hover { text-decoration: none; color: black; }
+h2 a { color: black; }
+
+h1, h2, h3 { font-family: georgia, serif; }
+p.pubdate { font-style: italic; font-size: 0.9em; }
+
+
+ h6 { font-size: 1.5em; line-height: .1em; margin-bottom: .3em; }
